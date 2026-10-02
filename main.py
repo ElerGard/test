@@ -1,3 +1,3 @@
 print(1)
 
-print("Hello Friend)
+print("Hello Student")
